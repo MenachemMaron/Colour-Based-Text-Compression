@@ -18,15 +18,15 @@ comparing lists.py - script used to check if both non-final lists' words are in 
 
 find missing.py - script used to check if all words from a given string is on the final words list
 
-generate numbers.py - script used to generate number combinations for every word (must enter 3 values manually per letter
+generate numbers.py - script used to generate number combinations for every word (must enter 3 values manually per letter)
 
 get & find (old).py - old version used to find a word in a single words list / get a specific line from a list
 
-get & find (split).py - script that find the line in which a word is located in the crresponding letter specific words list
+get & find (split).py - script that finds the line in which a word is located in the crresponding letter specific words list
 
-punctuation seperation.py - script currently being created, going to be used to seperate the punctuation from the words
+punctuation seperation.py - script that is not completed, going to be used to seperate the punctuation from the words
 
-punctuation testing.py - script currently being created, another version of seperating puntuation from words
+punctuation testing.py - script that is not completed, another version of a script used for seperating puntuation from words
 
 splitting files.py - script used to split the large words list into letter seperated files
 
