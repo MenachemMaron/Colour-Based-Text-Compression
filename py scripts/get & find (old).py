@@ -1,4 +1,4 @@
-words = open("C:/Users/menac/Videos/Desktop/CBT/wordsUpdated.txt")
+words = open("**path to updated words list**")
 lines = words.readlines()
 
 
@@ -16,6 +16,6 @@ def findValue(file, value):
 
 word = str(input("Enter a word: "))
 result = findValue(lines, word)
-print(result if result is not None else "The word you entered is invalid :)")
+print(result if result is not None else "The word you entered is invalid.")
 if result is not None:
     print(getLine(lines, result))
